@@ -1,2 +1,19 @@
-# analise-performance-equipe-python
-Projeto em Python para análise de performance de equipe
+# Análise de Performance de Equipe
+
+Projeto em Python que simula a análise de performance de uma equipe com base na quantidade de tarefas realizadas.
+
+## Objetivo
+Praticar lógica de programação aplicada à análise de dados, utilizando estruturas básicas do Python como listas, dicionários, laços de repetição e condicionais.
+
+## Funcionalidades
+- Estruturação de dados de uma equipe
+- Classificação de performance (Alta, Média, Baixa)
+- Avaliação de atingimento de meta
+- Contagem de pessoas por categoria de performance
+- Geração de resumo e insight final
+
+## Tecnologias utilizadas
+- Python
+
+## Como executar
+Abra o arquivo `main.py` em um editor de código e execute o script com Python.
